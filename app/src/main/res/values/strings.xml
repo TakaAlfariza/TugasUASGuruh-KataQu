@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KataQu</string>
+    <string name="quote">kata bijak</string>
+    <string name="author">- Kutipan Dari</string>
+    <string name="judul">Belajar Api</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="show_list_quotes">Daftar Quote</string>
+    <string name="selamatdatang">Selamat Datang di <b>KataQu</b> Dimana Anda Akan Menemukan Quotes Yang Menarik, Menghibur dan Memberikan Wawasan. </string>
+    <string name="selamatdatang2">Di Aplikasi <b>KataQu</b> Ini Anda Bisa Mencari Quotes / Kutipan Dari Orang-Orang Yang Hebat.</string>
+    <string name="selamatdatang3">Tekan Tombol <b>LANJUT</b> Untuk Mencari</string>
+    <string name="pengalaman">Semoga Pengalaman Anda di Aplikasi <b>KataQu</b> Ini Dapat Memberi Anda Wawasan Serta Motivasi Yang Di Sampaikan Oleh Orang-Orang Hebat Melalui Sebuah Quotes atau Kutipan Ini.</string>
+</resources>
